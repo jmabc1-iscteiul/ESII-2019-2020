@@ -7,9 +7,9 @@ Miguel Carriço - N73745
 APP JAVA - Complemento 5:
 
 App.jar - recebe 3 argumentos:
-Arg1: 
-Arg2: 
-Arg2: 
+Arg1: Infecoes / Internamentos / Testes
+Arg2: Maior / Menor
+Arg2: Valor
 
 Exemplo:
 java -jar App.java Testes Maior 60
